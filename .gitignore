@@ -19,7 +19,7 @@ target/
 *.iml
 *.ipr
 
-.env
+
 
 ### NetBeans ###
 /nbproject/private/
@@ -33,3 +33,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.env
+src
+
+# Ensure .env is ignored
+.env
+
